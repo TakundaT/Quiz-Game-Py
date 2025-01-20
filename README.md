@@ -1,1 +1,1 @@
-# Quiz-Game-Py
+# SnakeGamePy
